@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/increment-button-web/static/js/main.efef4dec.js",
+    "static/js/732.783bc47a.chunk.js": "/increment-button-web/static/js/732.783bc47a.chunk.js",
+    "static/js/559.997a6201.js": "/increment-button-web/static/js/559.997a6201.js",
+    "favicon.ico": "/increment-button-web/favicon.ico",
+    "index.html": "/increment-button-web/index.html",
+    "favicon-32.png": "/increment-button-web/favicon-32.png",
+    "favicon-16.png": "/increment-button-web/favicon-16.png",
+    "manifest.json": "/increment-button-web/manifest.json",
+    "serve.json": "/increment-button-web/serve.json",
+    "main.efef4dec.js.map": "/increment-button-web/static/js/main.efef4dec.js.map",
+    "732.783bc47a.chunk.js.map": "/increment-button-web/static/js/732.783bc47a.chunk.js.map",
+    "559.997a6201.js.map": "/increment-button-web/static/js/559.997a6201.js.map"
+  },
+  "entrypoints": [
+    "static/js/559.997a6201.js",
+    "static/js/main.efef4dec.js"
+  ]
+}

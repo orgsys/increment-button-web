@@ -1,0 +1,22 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "Increment Button",
+  "short_name": "IncrButton",
+  "start_url": "/?utm_source=web_app_manifest",
+  "theme_color": "#ffffff",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "com.yourcompany.incrementbutton"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.vitallyz.incrementbutton",
+      "id": "com.vitallyz.incrementbutton"
+    }
+  ],
+  "prefer_related_applications": true
+}
